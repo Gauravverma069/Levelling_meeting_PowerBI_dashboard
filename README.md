@@ -10,7 +10,7 @@ for resolving the problem for making it tidy and visually appealing,I was tasked
 4. *Assembly Losses*,
 5. *Heatmap*.
 
-#### **the data is manipulated and changed**
+>>>>> **the data is manipulated and changed**
 
 ## Lets go throught some visuals of the project.
 
