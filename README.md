@@ -1,7 +1,10 @@
 # Levelling_meeting_PowerBI_dashboard
 PowerBI Dashboard made for levelling meeting in corporation for interdepartmental meeting to showcase the performance of different department.
-While i was working as PPC coordinator for BOSCH, Jaipur. levelling meeting use to happen on excel spreadsheet which were very untidy and visually unappealing,
-for resolving the problem for making it tidy and visually appealing,I was tasked to creat a PowerBI dashboard,
+
+
+*While i was working as PPC coordinator for BOSCH, Jaipur. levelling meeting use to happen on excel spreadsheet which were very untidy and visually unappealing,
+for resolving the problem for making it tidy and visually appealing,I was tasked to creat a PowerBI dashboard*,
+
 ### the Dashboard constist of following pages:
 
 1. *Daily/Overall outputs*,
