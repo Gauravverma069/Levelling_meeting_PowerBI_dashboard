@@ -7,5 +7,7 @@ also containing Heatmap, OPL(open point list), Customer Critial,(VBL) Vender bac
 
 #### **the data is manipulated and changed**
 
-# Lets go throught some visuals of the project.
+## Lets go throught some visuals of the project.
+
+<img width="766" alt="image" src="https://github.com/Gauravverma069/Levelling_meeting_PowerBI_dashboard/assets/121911821/059c01a1-e2e7-43f5-9e47-064b38721367">
 
