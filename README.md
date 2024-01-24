@@ -5,4 +5,7 @@ for resolving the problem for making it tidy and visually appealing,I was tasked
 which contains daily output of our 4 different departments,comparing to target output,
 also containing Heatmap, OPL(open point list), Customer Critial,(VBL) Vender backlog, assembly Losses.
 
->>>>>> the data is manipulated and changed <<<<<<<<
+#### **the data is manipulated and changed**
+
+# Lets go throught some visuals of the project.
+
